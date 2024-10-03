@@ -23,7 +23,6 @@ I am currently diving into Linux and its applications in AI/ML environments. Add
 Areas of Interest
 
 
-Web Development: I enjoy creating dynamic web applications using frameworks like React and Node.js, focusing on user experience and performance.
 Data Science: Analyzing data to extract meaningful insights is a passion of mine. I love working with data visualization tools to communicate findings effectively.
 Systems Programming: Understanding the underlying systems that support software applications fascinates me. I have experience with C/C++ for performance-critical applications.
 DevOps Practices: I am interested in learning more about DevOps methodologies to streamline development processes and improve collaboration between teams.
