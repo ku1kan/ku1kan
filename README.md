@@ -7,7 +7,6 @@ Hello! I'm Kubilay, a passionate Software Developer specializing in Artificial I
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ku1kan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ku1kan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ku1kan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
